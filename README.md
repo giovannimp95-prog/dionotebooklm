@@ -26,6 +26,7 @@ TESTE DE PROMPTS
 
 
 1 - Com base nas fontes apresentadas, quais seriam os 3 conselhos valiosos que poderiam ser dados a uma pessoa com pouco conhecimento sobre educação financeira?
+
 R: Com base nas obras clássicas de educação financeira e nas lições de grandes figuras históricas presentes nas fontes, aqui estão três conselhos valiosos para quem está começando sua jornada financeira:
 1. Pague a si mesmo em primeiro lugar Este é um dos princípios fundamentais para a construção de riqueza. "O Homem Mais Rico da Babilônia" ensina que uma parte de tudo o que você ganha pertence exclusivamente a você, recomendando que se reserve pelo menos um décimo (10%) de seus rendimentos antes de qualquer outra despesa
 . Essa reserva é a "semente" de sua árvore da riqueza
