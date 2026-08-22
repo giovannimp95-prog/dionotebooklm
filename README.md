@@ -49,6 +49,7 @@ A implementação da simplicidade pode ser dividida entre o foco na utilidade ab
 | Método | Autor | Objetivo Principal | Técnica Chave || ------ | ------ | ------ | ------ || Multifuncionalidade | Fumio Sasaki | Redução extrema para agilidade. | Uso de produtos multiuso (ex: um único sabão para corpo, cabelo e lavanderia). || Critério de Alegria | Marie Kondo | Gestão de ambiente e priorização. | Manter apenas o que "desperta alegria" ( spark joy ), descartando o restante. |
 
 O Impacto no Estilo de Vida 
+
 O desapego material é a base da resiliência profissional. Historicamente, os japoneses pré-industrialização possuíam apenas duas ou três mudas de roupa e viviam em estruturas simples que poderiam ser reconstruídas rapidamente. Como relata Fumio Sasaki, esses cidadãos possuíam "pernas fortes" e podiam caminhar para qualquer lugar com pouca carga. No contexto executivo, essa "leveza" se traduz em baixos custos fixos e na capacidade de pivotar carreiras ou negócios com rapidez, sem o peso de passivos que imobilizam a tomada de risco.So What? (O Valor Estratégico):  A remoção do supérfluo físico é o prelúdio para a clareza na alocação de capital. Ao eliminar o ruído, o indivíduo substitui o consumo impulsivo pela precisão estratégica, transformando o espaço mental recuperado em agilidade operacional.Enquanto o minimalismo limpa o ego e o ambiente, a disciplina sistêmica de Rockefeller constrói a infraestrutura para a escala e o domínio de mercado.
 
 2. O Legado de Rockefeller: Eficiência Industrial e Sistêmica
