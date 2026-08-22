@@ -59,10 +59,7 @@ A Estratégia de Domínio
 
 Rockefeller não apenas operava no mercado; ele o estabilizava por meio da ordem sistêmica:
 * Integração Vertical:  Para mitigar dependências externas, ele controlou toda a cadeia produtiva, desde a compra de florestas para a fabricação de seus próprios barris até a gestão de terminais e vagões próprios.
-* Eliminação de Desperdício:  Sua obsessão pela otimização era milimétrica. O que outros descartavam, ele convertia em lucro.
-- Refino de resíduos da destilação para criar parafina e lubrificantes.
-- Implementação de fabricação própria de barris para reduzir custos de transporte.
-- Negociação de rebates ferroviários agressivos baseados no volume massivo da Standard Oil.
+* Eliminação de Desperdício:  Sua obsessão pela otimização era milimétrica. O que outros descartavam, ele convertia em lucro. Refino de resíduos da destilação para criar parafina e lubrificantes; Implementação de fabricação própria de barris para reduzir custos de transporte; Negociação de rebates ferroviários agressivos baseados no volume massivo da Standard Oil.
 
 3. Filosofia "Pai Rico, Pai Pobre" – Mentalidade e Educação
 
