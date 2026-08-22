@@ -97,25 +97,25 @@ Disciplina, estratégia, conhecimento e pensamento de longo prazo são os pilare
 
 Este glossário serve como a base terminológica unificada para integrar minimalismo, mente empreendedora e sabedoria financeira.
 
-Wabi-sabi:  Aceitação da imperfeição e da transitoriedade.
+1. Wabi-sabi:  Aceitação da imperfeição e da transitoriedade.
 Aplicação:  Reduzir o consumo de substituição por itens "perfeitos", focando na durabilidade.
-Ma:  O intervalo ou espaço vazio que dá significado ao ambiente e ao tempo.
+2. Ma:  O intervalo ou espaço vazio que dá significado ao ambiente e ao tempo.
 Aplicação:  Bloquear espaços na agenda para reflexão estratégica profunda, evitando o excesso de compromissos.
-Zen:  Prática de mindfulness para ver a realidade sem a distorção do ego.
+3. Zen:  Prática de mindfulness para ver a realidade sem a distorção do ego.
 Aplicação:  Tomar decisões de investimento baseadas em dados frios, não no desejo de validação social.
-Integração Vertical:  Controle de todas as fases da cadeia de produção para reduzir custos.
+4. Integração Vertical:  Controle de todas as fases da cadeia de produção para reduzir custos.
 Aplicação:  Rockefeller operando suas próprias fábricas de barris para eliminar fornecedores e intermediários.
-Monopólio:  Domínio de mercado para estabilizar preços e eliminar a concorrência destrutiva.
+5. Monopólio:  Domínio de mercado para estabilizar preços e eliminar a concorrência destrutiva.
 Aplicação:  A Standard Oil consolidando o setor de petróleo para trazer ordem a um mercado anteriormente caótico.
-Ativo:  Recurso que coloca dinheiro no seu bolso sem depender do seu esforço direto.
+6. Ativo:  Recurso que coloca dinheiro no seu bolso sem depender do seu esforço direto.
 Aplicação:  A biblioteca de gibis de Mike e Robert, que gerava lucro através de taxas de entrada administradas por terceiros.
-Passivo:  Recurso que drena capital através de despesas e manutenção.
+7. Passivo:  Recurso que drena capital através de despesas e manutenção.
 Aplicação:  Uma casa financiada com altos impostos que não gera renda, mas consome o salário mensal.
-Corrida dos Ratos:  Ciclo interminável de trabalho para pagar dívidas, alimentado por medo e ambição.
+8. Corrida dos Ratos:  Ciclo interminável de trabalho para pagar dívidas, alimentado por medo e ambição.
 Aplicação:  Um executivo que recebe um bônus e imediatamente compra um carro de luxo, aumentando sua dependência do emprego.
-Alfabetização Financeira:  habilidade técnica de ler números e entender a dinâmica do capital.
+9. Alfabetização Financeira:  habilidade técnica de ler números e entender a dinâmica do capital.
 Aplicação:  Capacidade de analisar um balanço patrimonial e distinguir entre um investimento e uma armadilha de consumo.
-Fluxo de Caixa:  Movimentação líquida de entrada e saída de capital em um período.
+10. Fluxo de Caixa:  Movimentação líquida de entrada e saída de capital em um período.
 Aplicação:  Monitorar o excedente mensal após gastos para reinvestimento em ativos de alta performance.
 
 # Prompts Reutilizáveis
