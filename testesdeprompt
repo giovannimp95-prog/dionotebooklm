@@ -1,4 +1,13 @@
-Todas as perguntas foram previamente elaboradas buscando clareza e objetividade e, de certo modo, tendo uma ideia de como seria a resposta fornecida pelo NotebookLM para refutá-la se fosse necessário (o que não aconteceu). A primeira pergunta serviu de apresentação das fontes à IA e, não só voltada à análise das respostas obtidas a fim de identificar insights para formulação das próximas, mas também direcionar a conversa para o tema em questão. A segunda perguntada foi construída na premissa de que o livro em questão tem uma didática muito simples, suas histórias são desenvolvidas através de parábolas, com isso em mente, busquei direcionar a IA à uma resposta já esperada com um diálogo entre os personagens e testar a capacidade do modelo de associar as duas fontes; Assim como na segunda, a terceira pergunta teve como finalidade  de avaliar a associação das fontes através da construção de um cenário. Diferente das anteriores, na última pergunta procurei restringir a liberdade de resposta da IA solicitando uma resposta mais estruturada e organizada, buscando observar o cumprimento da solicitação e desenvolvimento da mesma. 
+Todas as perguntas foram previamente elaboradas buscando clareza e objetividade e, de certo modo, tendo uma ideia de como 
+seria a resposta fornecida pelo NotebookLM para refutá-la se fosse necessário (o que não aconteceu). A primeira pergunta 
+serviu de apresentação das fontes à IA e, não só voltada à análise das respostas obtidas a fim de identificar insights para
+formulação das próximas, mas também direcionar a conversa para o tema em questão. A segunda perguntada foi construída na 
+premissa de que o livro em questão tem uma didática muito simples, suas histórias são desenvolvidas através de parábolas, 
+com isso em mente, busquei direcionar a IA à uma resposta já esperada com um diálogo entre os personagens e testar a 
+capacidade do modelo de associar as duas fontes; Assim como na segunda, a terceira pergunta teve como finalidade  de 
+avaliar a associação das fontes através da construção de um cenário. Diferente das anteriores, na última pergunta procurei 
+restringir a liberdade de resposta da IA solicitando uma resposta mais estruturada e organizada, buscando observar o 
+cumprimento da solicitação e desenvolvimento da mesma. 
 Todas as repostas foram satisfatórias e não houve dificuldades para extraí-las.
 
 
