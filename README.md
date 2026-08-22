@@ -1,17 +1,17 @@
 # Dio - Notebook LM (Bootcamp Bradesco - GenAI, Dados & Cyber)
 
-# OBJETIVO
+🎯 OBJETIVO  
 
 Criação de um caderno temático no NotebookLM.
 
 
-# CONTEXTO
+📌 CONTEXTO  
 
 Seguindo a linha de estudos apresentada nas aulas e também inspirado pela leitura do Livro 'O Homem mais rico da Babilônia', o presente projeto também abordará o tema de Finanças, destacando como uma pessoa pode evoluir financeiramente ao longo da vida, através de planejamento e ações, baseando-se no estudo das seguintes fontes.
 As etapas de construção deste projeto pode ser consultada no arquivo 'testesdeprompt' localizado um pouco acima nesta mesma página. Nele, estão detalhadas as perguntas e respostas obtidas no NotebookLM.
 
 
-# FONTES
+🔗 FONTES
 
 <https://www.eusoubud.com.br/wp-content/uploads/2021/07/O-Homem-Mais-Rico-da-Babilonia-George-S.-Clason.pdf>
 
@@ -22,7 +22,7 @@ As etapas de construção deste projeto pode ser consultada no arquivo 'testesde
 <https://theminimalistvegan.com/japanese-minimalism/>
 
 
-# MINI GUIA DE ESTUDO
+📝 MINI GUIA DE ESTUDO
 
 # Resumo
 
@@ -94,7 +94,7 @@ Disciplina, estratégia, conhecimento e pensamento de longo prazo são os pilare
 
 * Cautela antes do remorso: É melhor ter uma pequena cautela ao investir do que sofrer um grande arrependimento por ter sido imprudente com suas economias.
 
-# Glossário Estruturado: 10 Conceitos Essenciais para a Eficiência
+📖 Glossário Estruturado: 10 Conceitos Essenciais para a Eficiência
 
 Este glossário serve como a base terminológica unificada para integrar minimalismo, mente empreendedora e sabedoria financeira.
 
@@ -128,7 +128,7 @@ Aplicação:  Capacidade de analisar um balanço patrimonial e distinguir entre 
 10. Fluxo de Caixa:  Movimentação líquida de entrada e saída de capital em um período.
 Aplicação:  Monitorar o excedente mensal após gastos para reinvestimento em ativos de alta performance.
 
-# Prompts Reutilizáveis
+🤖 Prompts Reutilizáveis
 
 1. "Atue como um mentor financeiro. Utilizando a estratégia de integração vertical e combate ao desperdício de Rockefeller, juntamente com o conceito de QI Financeiro (Contabilidade, Investimento, Mercado e Lei) de 'Pai Rico, Pai Pobre', analise o seguinte cenário: [INSIRA UMA IDEIA DE NEGÓCIO OU SITUAÇÃO ATUAL]. Como posso estruturar esse plano para que o dinheiro trabalhe para mim e o sistema seja protegido legalmente por uma sociedade anônima?
 
