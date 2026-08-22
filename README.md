@@ -1,16 +1,16 @@
 # Dio - Notebook LM (Bootcamp Bradesco - GenAI, Dados & Cyber)
 
-OBJETIVO
+# OBJETIVO
 
 Criação de um caderno temático no NotebookLM.
 
 
-CONTEXTO
+# CONTEXTO
 
 Seguindo a linha de estudos apresentada nas aulas e também inspirado pela leitura do Livro 'O Homem mais rico da Babilônia', o presente projeto também abordará o tema de Finanças, destacando como uma pessoa pode evoluir financeiramente ao longo da vida, através de planejamento e ações.
 
 
-FONTES
+# FONTES
 
 <https://www.eusoubud.com.br/wp-content/uploads/2021/07/O-Homem-Mais-Rico-da-Babilonia-George-S.-Clason.pdf>
 
@@ -21,7 +21,7 @@ FONTES
 <https://theminimalistvegan.com/japanese-minimalism/>
 
 
-TESTE DE PROMPTS
+# TESTE DE PROMPTS
 
 
 
