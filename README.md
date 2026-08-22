@@ -1,7 +1,6 @@
 # Dio - Notebook LM (Bootcamp Bradesco - GenAI, Dados & Cyber)
 
-🎯 
-# OBJETIVO  
+# 🎯 OBJETIVO  
 
 Criação de um caderno temático no NotebookLM.
 
@@ -12,8 +11,7 @@ Seguindo a linha de estudos apresentada nas aulas e também inspirado pela leitu
 As etapas de construção deste projeto pode ser consultada no arquivo 'testesdeprompt' localizado um pouco acima nesta mesma página. Nele, estão detalhadas as perguntas e respostas obtidas no NotebookLM.
 
 
-🔗 
-# FONTES
+# 🔗 FONTES
 
 <https://www.eusoubud.com.br/wp-content/uploads/2021/07/O-Homem-Mais-Rico-da-Babilonia-George-S.-Clason.pdf>
 
@@ -24,11 +22,9 @@ As etapas de construção deste projeto pode ser consultada no arquivo 'testesde
 <https://theminimalistvegan.com/japanese-minimalism/>
 
 
-📝 
-# MINI GUIA DE ESTUDO
+# 📝 MINI GUIA DE ESTUDO
 
-💡
-# Resumo
+# 💡 Resumo
 
 Masterclass de Eficiência: Da Filosofia Zen à Sabedoria Financeira
 
