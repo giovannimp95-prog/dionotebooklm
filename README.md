@@ -8,6 +8,7 @@ Criação de um caderno temático no NotebookLM.
 # CONTEXTO
 
 Seguindo a linha de estudos apresentada nas aulas e também inspirado pela leitura do Livro 'O Homem mais rico da Babilônia', o presente projeto também abordará o tema de Finanças, destacando como uma pessoa pode evoluir financeiramente ao longo da vida, através de planejamento e ações, baseando-se no estudo das seguintes fontes.
+As etapas de construção deste projeto pode ser consultada no arquivo 'testesdeprompt' localizado um pouco acima nesta mesma página. Nele, estão detalhadas as perguntas e respostas obtidas no NotebookLM.
 
 
 # FONTES
