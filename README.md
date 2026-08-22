@@ -80,11 +80,17 @@ Alfabetização Financeira (Financial Literacy):  Diferente da educação geral,
 Disciplina, estratégia, conhecimento e pensamento de longo prazo são os pilares fundamentais na construção da riqueza duradoura. Através de histórias da antiga Babilônia, George S. Clason ensina leis simples e atemporais sobre como lidar com o dinheiro. 
 
 * Pague a si mesmo primeiro: O conselho mais famoso do livro é separar pelo menos 10% de tudo o que você ganha antes de pagar qualquer outra despesa.
+
 * Controle seus gastos: É fundamental diferenciar despesas necessárias de desejos passageiros, criando um orçamento para não gastar mais do que nove décimos do seu rendimento.
+
 * Faça o dinheiro trabalhar: O ouro guardado não deve ficar parado; ele deve ser investido para que se multiplique e gere uma renda constante para o futuro.
+
 * Proteja seu capital: Evite o risco de perda total investindo apenas onde o valor principal esteja seguro e onde você possa contar com o conselho de especialistas no assunto.
-Aumente sua capacidade de ganho: Quanto mais conhecimentos e habilidades você adquire em sua profissão, mais o mercado o recompensará com rendimentos maiores.
+
+* Aumente sua capacidade de ganho: Quanto mais conhecimentos e habilidades você adquire em sua profissão, mais o mercado o recompensará com rendimentos maiores.
+
 * Seja determinado: Onde há determinação, o caminho para a prosperidade pode ser encontrado, transformando até mesmo um escravo em um homem de posses.
+
 * Cautela antes do remorso: É melhor ter uma pequena cautela ao investir do que sofrer um grande arrependimento por ter sido imprudente com suas economias.
 
 # Glossário Estruturado: 10 Conceitos Essenciais para a Eficiência
