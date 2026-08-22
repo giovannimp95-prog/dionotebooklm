@@ -94,8 +94,7 @@ Disciplina, estratégia, conhecimento e pensamento de longo prazo são os pilare
 
 * Cautela antes do remorso: É melhor ter uma pequena cautela ao investir do que sofrer um grande arrependimento por ter sido imprudente com suas economias.
 
-📖 
-# Glossário Estruturado: 10 Conceitos Essenciais para a Eficiência
+# 📖 Glossário Estruturado: 10 Conceitos Essenciais para a Eficiência
 
 Este glossário serve como a base terminológica unificada para integrar minimalismo, mente empreendedora e sabedoria financeira.
 
@@ -129,8 +128,7 @@ Aplicação:  Capacidade de analisar um balanço patrimonial e distinguir entre 
 10. Fluxo de Caixa:  Movimentação líquida de entrada e saída de capital em um período.
 Aplicação:  Monitorar o excedente mensal após gastos para reinvestimento em ativos de alta performance.
 
-🤖 
-# Prompts Reutilizáveis
+# 🤖 Prompts Reutilizáveis
 
 1. "Atue como um mentor financeiro. Utilizando a estratégia de integração vertical e combate ao desperdício de Rockefeller, juntamente com o conceito de QI Financeiro (Contabilidade, Investimento, Mercado e Lei) de 'Pai Rico, Pai Pobre', analise o seguinte cenário: [INSIRA UMA IDEIA DE NEGÓCIO OU SITUAÇÃO ATUAL]. Como posso estruturar esse plano para que o dinheiro trabalhe para mim e o sistema seja protegido legalmente por uma sociedade anônima?
 
