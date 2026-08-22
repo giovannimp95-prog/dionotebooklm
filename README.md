@@ -26,6 +26,7 @@ Seguindo a linha de estudos apresentada nas aulas e também inspirado pela leitu
 # Resumo
 
 Masterclass de Eficiência: Da Filosofia Zen à Sabedoria Financeira
+
 A verdadeira eficiência transcende a mera produtividade; ela é a síntese entre a clareza mental, o rigor sistêmico 
 e a alfabetização financeira. Para o profissional contemporâneo, o domínio dessas três esferas não é um diferencial, 
 mas uma estratégia de sobrevivência e expansão. Este documento integra a agilidade do minimalismo japonês, a robustez 
